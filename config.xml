@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.example.convobro" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>ConvoBro</name>
+    <description>
+       Never Run out of things to say during conversation. This app, convobro, allows you skip brainstorming ideas and use the best list of tips and questions that can keep the conversation alive. 
+    </description>
+    <author email="myemailum14@gmail.com" href="#">
+        Techsin
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
