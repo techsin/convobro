@@ -9,4 +9,7 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <preference name="fullscreen" value="true" />
+    <gap:plugin name="org.apache.cordova.device-motion" version="0.2.10" />
+    
 </widget>
