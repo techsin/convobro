@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<widget id="com.example.convobro" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"  xmlns:gap= "http://phonegap.com/ns/1.0" id= "com.phonegap.example"  versionCode= "10" version= "1.0.0" >
     <name>ConvoBro</name>
     <description>
        Never Run out of things to say during conversation. This app, convobro, allows you skip brainstorming ideas and use the best list of tips and questions that can keep the conversation alive. 
@@ -11,5 +11,5 @@
     <access origin="*" />
     <preference name="fullscreen" value="true" />
     <gap:plugin name="org.apache.cordova.device-motion" version="0.2.10" />
-    
+
 </widget>
